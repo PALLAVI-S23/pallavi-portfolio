@@ -1,0 +1,1 @@
+I am Pallavi S, pursuing B.Tech in Artificial Intelligence and Data Science at REVA University. I am interested in programming, artificial intelligence, data science, and learning new technologies. I am currently developing my skills in Python, SQL, Git and GitHub, and web development while working on projects to improve my practical knowledge.
